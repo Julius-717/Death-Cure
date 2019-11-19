@@ -44,7 +44,7 @@
   
   body{
     /* The image used */
-    background-image: url("../img/marvel.jpg");
+    background-image: url("../img/marvel.jpeg");
     /* Set a specific height */
     height:950px;
     /* Position and center the image to scale nicely on all screens */
@@ -69,7 +69,7 @@
   @media only screen and (min-device-width : 720px) {
     body{
       /* The image used */
-      background-image: url("../img/marvel.jpg");
+      background-image: url("../img/marvel.jpeg");
       /* Set a specific height */
       height:1000px;
       /* Position and center the image to scale nicely on all screens */
@@ -95,7 +95,7 @@
   @media only screen and (device-width : 720px) and (max-device-height : 1480px) {
     body{
       /* The image used */
-      background-image: url("../img/marvel.jpg");
+      background-image: url("../img/marvel.jpeg");
       /* Set a specific height */
       height:1000px;
       /* Position and center the image to scale nicely on all screens */
@@ -126,7 +126,7 @@
   }
     body{
       /* The image used */
-      background-image: url("../img/marvel.jpg");
+      background-image: url("../img/marvel.jpeg");
       /* Set a specific height */
   
       /* Position and center the image to scale nicely on all screens */
@@ -170,7 +170,7 @@
   
     body{
       /* The image used */
-      background-image: url("../img/marvel.jpg");
+      background-image: url("../img/marvel.jpeg");
       /* Set a specific height */
       /* Position and center the image to scale nicely on all screens */
       background-position:center;
@@ -210,7 +210,7 @@
   @media only screen and (device-width : 414px) and (max-device-height : 736px) {
     body{
       /* The image used */
-      background-image: url("../img/marvel.jpg");
+      background-image: url("../img/marvel.jpeg");
       /* Set a specific height */
       height:1000px;
       /* Position and center the image to scale nicely on all screens */
@@ -238,7 +238,7 @@
   @media only screen and (device-width : 411px) and (max-device-height : 823px) {
     body{
       /* The image used */
-      background-image: url("../img/marvel.jpg");
+      background-image: url("../img/marvel.jpeg");
       /* Set a specific height */
       height:1000px;
       /* Position and center the image to scale nicely on all screens */
@@ -267,7 +267,7 @@
   @media only screen and (min-device-height : 812px) and (max-device-height : 820px) {
     body{
       /* The image used */
-      background-image: url("../img/marvel.jpg");
+      background-image: url("../img/marvel.jpeg");
       /* Set a specific height */
       height:1000px;
       /* Position and center the image to scale nicely on all screens */
@@ -297,7 +297,7 @@
   @media only screen and (min-device-width : 375px) and (device-height : 667px) {
     body{
       /* The image used */
-      background-image: url("../img/marvel.jpg");
+      background-image: url("../img/marvel.jpeg");
       /* Set a specific height */
       height:1000px;
       /* Position and center the image to scale nicely on all screens */
@@ -323,7 +323,7 @@
   @media only screen and (min-device-width : 360px) and (max-device-height : 640px) {
     body{
       /* The image used */
-      background-image: url("../img/marvel.jpg");
+      background-image: url("../img/marvel.jpeg");
       /* Set a specific height */
       height:1000px;
       /* Position and center the image to scale nicely on all screens */
@@ -351,7 +351,7 @@
   @media only screen and (min-device-width : 320px) and (max-device-height : 568px) {
     body{
       /* The image used */
-      background-image: url("../img/marvel.jpg");
+      background-image: url("../img/marvel.jpeg");
       /* Set a specific height */
       height:1000px;
       /* Position and center the image to scale nicely on all screens */
@@ -381,7 +381,7 @@
   @media only screen and (device-height : 1024px) {
     body{
       /* The image used */
-      background-image: url("../img/marvel.jpg");
+      background-image: url("../img/marvel.jpeg");
       /* Set a specific height */
       height:1000px;
       /* Position and center the image to scale nicely on all screens */
@@ -408,7 +408,7 @@
   @media only screen and (device-height : 1366px) {
     body{
       /* The image used */
-      background-image: url("../img/marvel.jpg");
+      background-image: url("../img/marvel.jpeg");
       /* Set a specific height */
       height:1000px;
       /* Position and center the image to scale nicely on all screens */

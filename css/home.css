@@ -3,7 +3,7 @@ body,html{
   }
     body{
     /* The image used */
-    background-image: url("../img/test.jpg");
+    background-image: url("../img/collage.jpg");
     /* Set a specific height */
     height:980px;
     /* Position and center the image to scale nicely on all screens */
@@ -30,7 +30,7 @@ body,html{
       width: 550px;
       margin: auto;
   
-      background-image: url(../img/mazerunner.jpg);
+      background-image: url(../img/entertainment.png);
       background-position: 0% 58%;
   
       background-size: cover;
@@ -123,7 +123,7 @@ body,html{
   }
   body{
   /* The image used */
-  background-image: url("../img/15.4inch.jpg");
+  background-image: url("../img/pexel.jpeg");
   /* Set a specific height */
   
   /* Position and center the image to scale nicely on all screens */
